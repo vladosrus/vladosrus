@@ -57,11 +57,16 @@
 
 <br/>
 
-## <img alt="githubgif" src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width='30' align="top" /> Моя статистика GitHub:
+## <img alt="githubgif" src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width='30' align="top" /> Моя GitHub и CodeWars статистика:
 
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vladosrus&theme=vision-friendly-dark" alt="vladosrus" /></p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vladosrus&show_icons=true&locale=en&theme=vision-friendly-dark" alt="vladosrus" /></p>
+  <p>
+    <a href="https://www.codewars.com/users/vlados_rus">
+        <img src="https://www.codewars.com/users/vlados_rus/badges/large" />
+    </a>
+  </p>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vladosrus&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="vladosrus" /></p>
-  <p> <img src="https://komarev.com/ghpvc/?username=vladosrus&label=Profile%20views&color=0e75b6&style=flat" alt="vladosrus" /> </p>
+  <p><img src="https://komarev.com/ghpvc/?username=vladosrus&label=Profile%20views&color=0e75b6&style=flat" alt="vladosrus" /></p>
 </div>
